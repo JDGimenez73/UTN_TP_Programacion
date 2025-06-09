@@ -43,7 +43,7 @@ print("\n📊 Comparación de tiempos según cantidad de productos:\n")
 for n in tamaños:
     resultado = evaluar_rendimiento(n)
     resultados.append(resultado)
-    print(f"- {n} productos → Ordenamiento: {resultado['tiempo_ordenamiento']}s | Búsqueda: {resultado['tiempo_busqueda']}s")
+    print(f"- {n} productos → Ordenamiento: {resultado['tiempo_ordenamiento']:.6f}s | Búsqueda: {resultado['tiempo_busqueda']:.6f}s")
 
 
 

@@ -72,8 +72,8 @@ resultados["Merge Sort"] = {
 print("\n📊 Comparativa por método de ordenamiento:\n")
 for metodo, info in resultados.items():
     print(f"🔧 {metodo}:")
-    print(f"  ⏱️ Ordenamiento: {info['ordenamiento']} segundos")
-    print(f"  🔎 Búsqueda: {info['busqueda']} segundos")
+    print(f"  ⏱️ Ordenamiento: {info['ordenamiento']:.8f} segundos")
+    print(f"  🔎 Búsqueda: {info['busqueda']:.8f} segundos")
     if info["encontrado"]:
         print(f"  ✅ Producto encontrado: {info['encontrado']['nombre']} (${info['encontrado']['precio']})")
     else:
