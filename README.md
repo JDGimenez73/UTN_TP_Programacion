@@ -96,8 +96,8 @@ Parlantes ($7800)
 
 ## ▶️ Video explicativo
 
-🎥 Mira la presentación y explicación completa del trabajo en Drive:  
-🔗 https://drive.google.com/drive/folders/1lpfo3lyDXjXWgyDJHhrYh5XYw30I7llp
+🎥 Mira la presentación y explicación completa del trabajo en Youtube:  
+🔗 https://youtu.be/IrlpP_uxvlI
 
 ---
 
