@@ -72,14 +72,24 @@ Parlantes ($7800)
 
 ## 📂 Estructura del Proyecto
 
+├── docs/
+
+│ ├── Algoritmos-de-Busqueda-y-Ordenamiento-Analisis-Teorico-y-Practico.pptx # Presentacion del trabajo
+    
+│ └── Trabajo Integrador-Programación I.docx # Documento teórico del trabajo
+
 ├── src/
+
 │ ├── ordenamiento.py # Función Insertion Sort adaptada para productos
+
 │ ├── busqueda.py # Búsqueda lineal por nombre de producto
+
 │ ├── main.py # Caso práctico interactivo (catálogo)
+
 │ └── test_algoritmos.py # Medición de tiempos y rendimiento
-│
-├── Informe_Trabajo_Integrador.docx # Documento teórico del trabajo
+
 ├── requirements.txt # Dependencias mínimas
+
 └── README.md # Este archivo
 
 ---
